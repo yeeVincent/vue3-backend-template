@@ -1,0 +1,35 @@
+<%
+const { utils, route, config } = it;
+const { _ } = utils;
+const { path, method, payload, query } = route.request;
+const { type } = route.response;
+
+const routeDocs = includeFile("@base/route-docs", { config, route, utils });
+
+const requestConfigParam = {
+    name: "options",
+    optional: true,
+    type: 'ExtraRequestParams',
+    defaultValue: "{}"
+}
+
+const inputRequestDataType = _.compact([query, payload, requestConfigParam])
+
+const formatDataTypeAndName = ({ name, optional, type, defaultValue }) => `${name === 'options' ? name: 'data'}${!defaultValue && optional ? '?' : ''}: ${type}${defaultValue ? ` = ${defaultValue}` : ''}`;
+
+const formattedRequstParams = _.sortBy(inputRequestDataType, [o=>o.optional]).map(formatDataTypeAndName).join(", ")
+
+const requestInstanceParams = _.sortBy(inputRequestDataType, [o=>o.optional]).map(({name})=>name === 'options' ? `...${name}`: 'params: {...data}').join(', \n')
+
+
+%>
+/**
+<%~ routeDocs.description + '\n'%>
+<%~ routeDocs.lines %>
+
+ */
+<%~ route.routeName.usage %><%~ route.namespace ? ': ' : ' = ' %>(<%~ formattedRequstParams %>) =>
+    request.<%~ _.lowerCase(method)%><<%~ type %>>(`<%~ path %>`, {
+        <%~ requestInstanceParams %>
+    })
+<%~ route.namespace ? ',' : '' %>

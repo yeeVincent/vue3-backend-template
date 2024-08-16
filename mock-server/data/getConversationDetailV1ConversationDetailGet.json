@@ -1,0 +1,140 @@
+{
+  "conversation_id": 969496567218176,
+  "ag_info": {
+    "id": 337632179519488,
+    "ag_name": "timor ut totidem",
+    "ag_avatar_url": "dedico canis tero",
+    "cover_url": "cattus aestas depereo",
+    "ag_file_url": {
+      "live2d_url": "tondeo occaecati umbra",
+      "app_static_img_url": "maiores uberrime vinco",
+      "web_static_img_url": "basium quas admoneo",
+      "static_img_url": "tactus statim celo",
+      "background_url": "cimentarius apud quis"
+    },
+    "display_type": "vilis conspergo copia",
+    "art_style_type": "consectetur animus spiritus",
+    "voice_file": {
+      "touch_body": "aeger demonstro damno",
+      "touch_chest": "venustas tam patrocinor"
+    },
+    "age": 242641186848768,
+    "personality": [
+      "ciminatio cariosus accusator"
+    ],
+    "level_name": "volup corroboro recusandae",
+    "exp_level": 8069592102469632,
+    "exp_num": 145396108099584,
+    "is_top_level": false,
+    "next_level_exp": 1237696215252992,
+    "character_desc": "vix commemoro terra",
+    "conversation_id": 7806674435833856
+  },
+  "level_info": {
+    "exp_level": 5885546150756352,
+    "exp_num": 6462746604339200,
+    "level_name": "patrocinor calamitas ulterius",
+    "exp_level_apex": 4029851000373248,
+    "last_three_picture": [
+      {
+        "img_id": 4833312881246208,
+        "img_url": "verto sodalitas damno"
+      }
+    ]
+  },
+  "prop_list": [
+    {
+      "id": 5714393931186176,
+      "name": "aliquam stipes vesper",
+      "image_url": "auditor repudiandae consequuntur",
+      "coin_num": 6432854896541696,
+      "is_member_only": true,
+      "goods_type": "universe clam occaecati",
+      "has_unlocked": false,
+      "status": true,
+      "prop_type": "tyrannus terga comminor",
+      "open_image_url": "tergum aeger tam",
+      "voice_url": "sumo suffoco abduco"
+    }
+  ],
+  "gift_list": [
+    {
+      "id": 3907119839444992,
+      "name": "antepono pecus tergo",
+      "image_url": "odio abbas apostolus",
+      "coin_num": 393531950628864,
+      "is_member_only": true,
+      "goods_type": "averto praesentium impedit",
+      "goods_video_url": "sollicito demoror expedita"
+    }
+  ],
+  "message_info": [
+    {
+      "ag_msg_type": "solium compello tres",
+      "generate_status": "aliquam arguo arcus",
+      "emotion": "aggero ipsum cicuta",
+      "user_id": 4088573957505024,
+      "ag_id": 8801335036084224,
+      "last_msg_time": 4010813102751744,
+      "recommended_reply": [
+        "vesica crebro carbo"
+      ],
+      "conversation_id": 7241917238607872,
+      "message_id": 6294804373700608,
+      "user_msg_content": "aetas ustilo speculum",
+      "ag_msg_content": "carus curis veritatis",
+      "create_time": 4063851383357440,
+      "update_time": 6945108465287168,
+      "deleted": false,
+      "is_read": true,
+      "evaluation_result": "absconditus spes utrum",
+      "extra": {
+        "image_info": {
+          "conversation_unlock_image_id": 1088204146999296,
+          "image_url": "crastinus statua verumtamen",
+          "generate_status": "collum decens ager",
+          "unlock_coin_num": 3923420706242560,
+          "unlock_level": 6774303976587264,
+          "unlock_method": "veniam caterva conicio",
+          "preset_image_id": 4187350221455360,
+          "generate_type": "solium cursus bardus"
+        },
+        "voice_info": {
+          "voice_url": "toties comparo sublime"
+        },
+        "inc_exp": 499616250331136,
+        "red_words": "demoror deporto vulticulus",
+        "is_be_viewed": false
+      },
+      "image_info": {
+        "conversation_unlock_image_id": 3603106749218816,
+        "image_url": "caterva curriculum desidero",
+        "generate_status": "suppellex stabilis totus",
+        "unlock_coin_num": 8960101226381312,
+        "unlock_level": 731451517566976,
+        "unlock_method": "cruentus aggredior cubitum",
+        "preset_image_id": 5150586626375680,
+        "generate_type": "cohibeo cruciamentum cattus"
+      },
+      "voice_info": {
+        "voice_url": "ratione vita vinculum"
+      }
+    }
+  ],
+  "conversation_info": {
+    "conversation_id": 1556725823963136,
+    "user_id": 207657520594944,
+    "ag_id": 6626774381232128,
+    "exp_level": 1019713213693952,
+    "exp_num": 8643247354150912,
+    "last_message_content": "apud pax adiuvo",
+    "last_message_time": 8459307620237312,
+    "unread_count": 459995745353728,
+    "is_deleted": 4768233108275200,
+    "is_show_guide": true,
+    "prop_status_map": {
+      "additionalProp": true
+    }
+  },
+  "remaining_send_msg_num": 6476278773317632
+}

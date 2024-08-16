@@ -1,0 +1,101 @@
+{
+  "common": {
+    "banner_list": [
+      {
+        "ag_info": {
+          "id": 315503369256960,
+          "create_time": 8334973868179456,
+          "update_time": 5011164576612352,
+          "ag_name": "nostrum vis solus",
+          "age": 7088531453247488,
+          "introduce_tag": [
+            "confero caelum vero"
+          ],
+          "cover_url": "iure suus coadunatio",
+          "ag_file_url": {
+            "live2d_url": "vir callide surgo",
+            "app_static_img_url": "crebro timidus verumtamen",
+            "web_static_img_url": "calculus beneficium dolorum",
+            "static_img_url": "suscipit voveo ver",
+            "background_url": "concido utor terminatio"
+          },
+          "is_member_only": false,
+          "art_style_type": "tollo trepide terror",
+          "display_type": "turba sursum agnosco",
+          "static_image": [
+            "adiuvo synagoga aut"
+          ],
+          "ag_metrics": null,
+          "conversation_id": 1642199397695488,
+          "has_unlocked": true,
+          "enabled": false
+        },
+        "time": {
+          "enabled": false,
+          "end_timestamp": 924041443540992
+        },
+        "button": {
+          "enabled": false,
+          "prefix": "aveho concedo velum",
+          "num_str": "subiungo quae adstringo",
+          "description": "vitiosus verto at"
+        },
+        "offer": {
+          "enabled": false,
+          "prefix": "vero audio callide",
+          "num_str": "aestivus abbas candidus",
+          "description": "cubo rerum desidero"
+        },
+        "equity_list": [
+          {
+            "desc": "circumvenio casso solio"
+          }
+        ],
+        "title": "tamisium universe chirographum",
+        "img_link": "angulus deficio bene",
+        "version": "armarium voluptatibus adduco",
+        "name": "decet delicate adstringo",
+        "jump_to": "synagoga tener pauci"
+      }
+    ],
+    "user_ag_rights_info": {
+      "has_lock_count": 6786226751275008,
+      "un_lock_count": 5952119408427008,
+      "n_coins": 1731791893299200
+    },
+    "user_info": {
+      "id": 3869962017964032,
+      "create_time": 8347312625549312,
+      "update_time": 8499975560364032,
+      "email": "tenuis depulso casso",
+      "login_type": "suscipio carcer viriliter",
+      "source": "cervus ante cresco",
+      "date_joined": 6194265459785728,
+      "social_email": "aegre auditor vindico",
+      "nickname": "pecco subseco tondeo",
+      "avatar": "dolor tot synagoga",
+      "deleted": false,
+      "member_type": "decretum ut termes",
+      "member_start_time": 3413650819776512,
+      "member_end_time": 8199598711504896,
+      "member_source": "vae ducimus vulnero",
+      "is_member": false,
+      "create_in24h": true,
+      "create_in30m_end_timestamp": 5545610132324352,
+      "create_in24h_end_timestamp": 6886374821068800,
+      "last_login_time": 4074723352772608,
+      "register_platform": "venustas odit utpote",
+      "fcm_register_token": "chirographum celebrer denique",
+      "device_id": "quibusdam repellendus demo",
+      "deleted_time": 249722646298624,
+      "guest_to_user_time": 837801388015616,
+      "is_first_login": true,
+      "jump_to": null,
+      "user_coin_num": 3131491638837248,
+      "has_renamed": false,
+      "extra": {}
+    },
+    "unread_count": 646552678825984
+  },
+  "platform": null
+}

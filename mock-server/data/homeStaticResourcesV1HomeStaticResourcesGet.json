@@ -1,0 +1,92 @@
+{
+  "common": {
+    "fcm_topic": "sufficio theca denego",
+    "banner_list": [
+      {
+        "ag_info": {
+          "id": 4302526711070720,
+          "create_time": 8351943260897280,
+          "update_time": 4835959122165760,
+          "ag_name": "temperantia sponte trepide",
+          "age": 5536255089573888,
+          "introduce_tag": [
+            "sustineo depopulo curatio"
+          ],
+          "cover_url": "vulnero timor comitatus",
+          "ag_file_url": {
+            "live2d_url": "audeo deputo quaerat",
+            "app_static_img_url": "voro tyrannus comparo",
+            "web_static_img_url": "aeneus amitto umerus",
+            "static_img_url": "aspernatur sapiente arx",
+            "background_url": "viridis stultus nam"
+          },
+          "is_member_only": true,
+          "art_style_type": "peccatus absens aliquid",
+          "display_type": "voro annus acer",
+          "static_image": [
+            "illum alo suadeo"
+          ],
+          "ag_metrics": null,
+          "conversation_id": 7177096826716160,
+          "has_unlocked": true,
+          "enabled": false
+        },
+        "time": {
+          "enabled": false,
+          "end_timestamp": 2332663845224448
+        },
+        "button": {
+          "enabled": false,
+          "prefix": "spiculum aveho acsi",
+          "num_str": "cado doloribus aequitas",
+          "description": "ager corporis ventus"
+        },
+        "offer": {
+          "enabled": true,
+          "prefix": "spargo thymum ademptio",
+          "num_str": "tabella deficio virtus",
+          "description": "aperiam cras itaque"
+        },
+        "equity_list": [
+          {
+            "desc": "amaritudo amita ipsam"
+          }
+        ],
+        "title": "decor eligendi vicinus",
+        "img_link": "solum nemo ago",
+        "version": "uredo tener tertius",
+        "name": "tertius confero coerceo",
+        "jump_to": "patria defleo audeo"
+      }
+    ],
+    "exp_level_range_list": [
+      {
+        "name": "texo sollicito veniam",
+        "level": 5921092994596864,
+        "exp_range": [
+          null
+        ],
+        "equity_desc": "adficio sponte cattus",
+        "next_level_reward": {
+          "diamond": 7717901247184896,
+          "unlock_img": 8362949487886336
+        }
+      }
+    ],
+    "ag_role_category_list": [
+      "comitatus ago spargo"
+    ],
+    "anime_image_prompt_list": [
+      "carmen blanditiis despecto"
+    ],
+    "real_image_promt_list": [
+      "barba beatus tempore"
+    ],
+    "image_cost_coin_config": {
+      "unlock_preset_image": 6575463984005120,
+      "message_generate_image": 1947378099683328,
+      "prompt_generate_image": 1162071708270592
+    }
+  },
+  "platform": null
+}
